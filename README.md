@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hi
+1. 🛡️ Certified Ethical Hacker – skilled in identifying and fixing security vulnerabilities.
+
+
+2. 🧠 Cyber Psychology Researcher – studies human behaviour in the digital world.
+
+
+3. 🔍 Expert in Cyber Threat Analysis – understands how online attacks work and how to prevent them.
+
+
+4. 💻 Passionate About Digital Safety – dedicated to creating a safer online environment.
+
+
+5. 🚀 Continuous Learner – always exploring new cyber technologies and security trends
 
 
 ## 🌐 Socials:
